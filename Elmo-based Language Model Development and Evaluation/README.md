@@ -1,7 +1,7 @@
 ### How to run
 
 1. go to https://drive.google.com/drive/folders/1NWio83yBmJJiBt6zyZmZrne_QHVMoQSf?usp=sharing
-   download all the models in theat folder to the unzipped file.
+   download all the models in that folder to the unzipped file.
 
 2. run 
 
